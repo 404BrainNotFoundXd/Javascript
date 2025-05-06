@@ -1,0 +1,8 @@
+const studentId=22022386
+let studentName=`Shobhit Shukla`
+let studentPassword=223344
+let studentCity="Kochi"
+
+console.log(studentPassword);
+console.table([studentId,studentName,studentCity,studentPassword])
+
